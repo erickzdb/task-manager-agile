@@ -1,0 +1,15 @@
+
+{
+  "name": "task-manager-agile",
+  "version": "1.0.0",
+  "description": "Sistema de gerenciamento de tarefas utilizando metodologias ágeis",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Erick",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

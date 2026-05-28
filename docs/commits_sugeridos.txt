@@ -1,0 +1,11 @@
+
+1. feat: criação inicial do projeto
+2. feat: adiciona interface do sistema
+3. feat: implementa CRUD de tarefas
+4. feat: adiciona prioridade das tarefas
+5. fix: corrige validação de entrada
+6. test: adiciona testes automatizados
+7. ci: configura github actions
+8. docs: adiciona README completo
+9. refactor: reorganiza estrutura de pastas
+10. style: melhora layout do sistema
